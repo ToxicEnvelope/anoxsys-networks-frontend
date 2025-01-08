@@ -1,0 +1,197 @@
+{
+  "Navbar": {
+    "title": "Anoxsys Networks",
+    "logo": "img/an.logo.128.jpg"
+  },
+  "Header": {
+    "title": "Anoxsys Networks",
+    "paragraph": "One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
+    "author": "Carl Jung"
+  },
+  "About": {
+    "paragraph": "AnoxsysNetworks founded back in 2016 and stopped it's research 2022. We're specialized in cyber intelligence and information gathering,  we focus on reactive defence, penetration testing and regulation.\nWe can take your company all the way to ISO-27001, GDPR, SICS, OCISP certification less then 120 days period process.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-shield",
+      "name": "Risk Management & Mitigation",
+      "text": "Learn an Active Defence approach by which your data and organization can coexist in a secured environment system."
+    },
+    {
+      "icon": "fa fa-crosshairs",
+      "name": "OCI & Threat Elimination",
+      "text": "Offensive Cyber Intelligence & Action opens a new vector of threat actors attribution identification, exploitation, elimination and purification."
+    },
+    {
+      "icon": "fa fa-hdd",
+      "name": "Disaster & Recovery",
+      "text": "Knowing how to Recover and Handle a Data Disaster in order to survive after a Cyber Attack, You will learn to recover by set a new scale on security of our organization and data."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Operations & Projects",
+      "text": "AnoxsysNetworks believes in running operative SELF system during operation integrating with the projectors environment and resources for better security.\nRunning in-house projects for security enhancement reasons"
+    },
+    {
+      "icon": "fa fa-terminal",
+      "name": "Penetration Testing & Regulations",
+      "text": "Get your Company the assurance of Security and Privacy by Using a MangerToolKit (MTK) which will allow you to securely transmit data. Test your company Security and Pentest until confirmed secure."
+    },
+    {
+      "icon": "fa fa-eye-slash",
+      "name": "Research & Development",
+      "text": "Run a Program of Researchers and Engineers towards a tailor made Cyber Security Solution just for you."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/1.jpg",
+      "job": "Security Researcher",
+      "name": "Yahav N, Hoffman"
+    },
+    {
+      "img": "img/team/4.jpg",
+      "job": "Cyber Analyst",
+      "name": "Dalila Grossman"
+    },
+    {
+      "img": "img/team/3.jpg",
+      "job": "Assets Manager",
+      "name": "Annie Rotchild"
+    },
+    {
+      "img": "img/team/2.jpg",
+      "job": "Cyber Operator",
+      "name": "Patrick J, Geoffry"
+    }
+  ],
+  "Contact": {
+    "address": "Israel, Caesarea",
+    "phone": "+972 492 0275",
+    "email": "info@anoxsysnetworks.com",
+    "social": {
+      "facebook": {
+        "url": "https://www.facebook.com/AnoxsysNet",
+        "img": "img/facebook.svg"
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/anoxsys-networks",
+        "img": "img/linkedin.svg"
+      }
+    }
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
+
