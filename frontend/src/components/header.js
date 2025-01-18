@@ -1,4 +1,6 @@
-export const Header = (props) => {
+import React from 'react';
+
+const Header = (props) => {
   return (
     <header id='header'>
       <div className='intro'>
@@ -37,3 +39,4 @@ export const Header = (props) => {
   )
 }
 
+export default Header;

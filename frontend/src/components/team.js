@@ -1,4 +1,6 @@
-export const Team = (props) => {
+import React from 'react';
+
+const Team = (props) => {
   return (
     <div id='team' className='text-center'>
       <div className='container'>
@@ -27,3 +29,4 @@ export const Team = (props) => {
   )
 }
 
+export default Team;

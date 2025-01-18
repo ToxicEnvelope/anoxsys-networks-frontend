@@ -1,4 +1,6 @@
-export const Navigation = (props) => {
+import React from 'react';
+
+const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <img id='company-logo' alt="" src={props.data ? props.data.logo: ""} />
@@ -52,4 +54,6 @@ export const Navigation = (props) => {
     </nav>
   )
 }
+
+export default Navigation;
 
